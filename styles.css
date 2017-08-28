@@ -1,0 +1,22 @@
+h1{
+color:rgb(255, 217, 204);
+}
+
+img.resize {
+  width:400px;
+  height:555px;
+}
+#prvn9 {
+	font-size:40px;
+}
+.fight{ 
+     font-size:30px; 
+}
+.help {
+	
+	border-color:#003399;
+	border:dotted;
+}
+span {
+	color:rgb(255, 0, 102)
+}
